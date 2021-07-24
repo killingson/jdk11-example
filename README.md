@@ -13,6 +13,6 @@ This repository contains some new feature code after Java8, which runs on top of
 - [time](src/main/java/io/github/biezhi/java11/time)
 - [single file](src/main/java/io/github/biezhi/java11/singlefile)
 
-# License
+# java11更新大纲
 
-[MIT](LICENSE)
+- [java11新特性](jdk11新特性.xmind)
