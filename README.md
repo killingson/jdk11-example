@@ -1,3 +1,7 @@
+# java11更新大纲
+
+- [java11新特性](jdk11新特性.xmind)
+
 # Java11 Examples
 
 This repository contains some new feature code after Java8, which runs on top of JDK 11.
@@ -12,7 +16,3 @@ This repository contains some new feature code after Java8, which runs on top of
 - [files](src/main/java/io/github/biezhi/java11/files)
 - [time](src/main/java/io/github/biezhi/java11/time)
 - [single file](src/main/java/io/github/biezhi/java11/singlefile)
-
-# java11更新大纲
-
-- [java11新特性](jdk11新特性.xmind)
