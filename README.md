@@ -1,8 +1,3 @@
-# java11更新大纲
-
-![Image text](jdk11_features.png)
-- 源文件java11_features.xmind
-
 # Java11示例
 
 此项目包含了Java8到Java11的部分升级特性示例.
@@ -17,3 +12,5 @@
 - [files](src/main/java/com/company/files)
 - [time](src/main/java/com/company/time)
 - [single file](src/main/java/com/company/singlefile)
+- 源文件java11_features.xmind
+![Image text](java11_features.png)
