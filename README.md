@@ -1,18 +1,19 @@
 # java11更新大纲
 
-- [java11新特性](jdk11新特性.xmind)
+![Image text](jdk11_features.png)
+- 源文件java11_features.xmind
 
-# Java11 Examples
+# Java11示例
 
-This repository contains some new feature code after Java8, which runs on top of JDK 11.
+此项目包含了Java8到Java11的部分升级特性示例.
 
-- [var](src/main/java/io/github/biezhi/java11/var)
-- [string](src/main/java/io/github/biezhi/java11/string)
-- [collections](src/main/java/io/github/biezhi/java11/collections)
-- [interface](src/main/java/io/github/biezhi/java11/interfaces)
-- [http](src/main/java/io/github/biezhi/java11/http)
-- [processor](src/main/java/io/github/biezhi/java11/processor)
-- [try with resources](src/main/java/io/github/biezhi/java11/trywithresources)
-- [files](src/main/java/io/github/biezhi/java11/files)
-- [time](src/main/java/io/github/biezhi/java11/time)
-- [single file](src/main/java/io/github/biezhi/java11/singlefile)
+- [var](src/main/java/com/company/var)
+- [string](src/main/java/com/company/string)
+- [collections](src/main/java/com/company/collections)
+- [interface](src/main/java/com/company/interfaces)
+- [http](src/main/java/com/company/http)
+- [processor](src/main/java/com/company/processor)
+- [try with resources](src/main/java/com/company/trywithresources)
+- [files](src/main/java/com/company/files)
+- [time](src/main/java/com/company/time)
+- [single file](src/main/java/com/company/singlefile)
